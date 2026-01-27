@@ -42,7 +42,7 @@ If there are details missing:
 
 ## Finding your way at ULB
 
-- maps
+- [maps](maps.md)
 
 ## Social
 
