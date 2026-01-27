@@ -20,7 +20,7 @@ come with an open heart.
 
 ## Talks
 
-- [speaking)(speaking.md)
+- [speaking](speaking.md)
 - attending a talk
 - finding talks
 
