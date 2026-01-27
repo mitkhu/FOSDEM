@@ -53,4 +53,5 @@ If there are details missing:
 
 ## Links
 
-[How to survive FOSDEM](https://marcin.juszkiewicz.com.pl/2019/10/15/how-to-survive-fosdem/)
+- [How to survive FOSDEM](https://marcin.juszkiewicz.com.pl/2019/10/15/how-to-survive-fosdem/)
+- The official [FOSDEM](https://fosdem.org) site
