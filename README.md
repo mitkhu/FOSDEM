@@ -7,9 +7,10 @@ come with an open heart.
 
  / Jan Wildeboer
 
-## Lodging
+## Brussels
 
 - [hotels](hotels.md)
+- transportation
 
 ## Carrying
 
