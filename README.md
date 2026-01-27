@@ -24,6 +24,11 @@ come with an open heart.
 - [finding talks](how-to-find.md)
 - attending a talk
 
+## Apps
+
+- Talks
+- maps
+
 ## Social
 
 - how to meeet up
