@@ -17,6 +17,7 @@ come with an open heart.
 
 - [drinks](drinks.md)
 - [food](food.md)
+- [wifi](wifi.md)
 
 ## Talks
 
