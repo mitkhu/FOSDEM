@@ -31,6 +31,7 @@ If there are details missing:
 - [drinks](drinks.md)
 - [food](food.md)
 - [wifi](wifi.md)
+- [power](power.md)
 
 ## Talks
 
