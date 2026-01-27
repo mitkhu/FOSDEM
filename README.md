@@ -39,6 +39,11 @@ come with an open heart.
 
 - how to meeet up
 
+## Getting there and away
+
+- arriving
+- leaving
+
 ## Links
 
 [How to survive FOSDEM](https://marcin.juszkiewicz.com.pl/2019/10/15/how-to-survive-fosdem/)
