@@ -46,7 +46,7 @@ If there are details missing:
 
 ## Social
 
-- how to meeet up
+- how to meet up
 
 ## Getting there and away
 
