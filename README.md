@@ -27,3 +27,7 @@ come with an open heart.
 ## Social
 
 - how to meeet up
+
+## Links
+
+[How to survive FOSDEM](https://marcin.juszkiewicz.com.pl/2019/10/15/how-to-survive-fosdem/)
