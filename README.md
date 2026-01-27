@@ -21,8 +21,8 @@ come with an open heart.
 ## Talks
 
 - [speaking](speaking.md)
+- [finding talks](how-to-find.md)
 - attending a talk
-- finding talks
 
 ## Social
 
